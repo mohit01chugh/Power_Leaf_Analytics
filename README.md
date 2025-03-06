@@ -10,7 +10,7 @@ This solution should encompass key performance indicators (KPIs) such as leaves 
 
 💻**Action:**
 
-I collaborate with stakeholders 🤝 to gather requirements, integrate reliable data sources 🔗, and design an intuitive reporting platform (e.g., Power BI). 
+I collaborate with stakeholders 🤝 to gather requirements, integrate reliable data sources 🔗, and design an intuitive report using Power BI. 
 This will involve creating interactive visualizations 🎨, implementing data governance measures 🛡️, and ensuring secure access for authorized users 🔑.
 
 ✅**Result:**
